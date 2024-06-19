@@ -1,3 +1,4 @@
+import './about.css';
 import AboutImage from '../../assets/about-me.png';
 import CV from '../../assets/Resume.pdf';
 import { HiDownload } from 'react-icons/hi';
@@ -26,7 +27,6 @@ const About = () => {
                 </Card>
               ))
             }
-
           </div>
           <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Similique dolore ea soluta iure natus architecto quidem blanditiis expedita inventore at consequuntur rem, ratione iste cum saepe reprehenderit dolores nam excepturi!</p>
           <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Aspernatur deserunt culpa exercitationem dolorem, sequi eaque aliquid numquam doloribus! Quas quam magni aspernatur quo cum aliquid pariatur quasi iste. Sit, totam!</p>
