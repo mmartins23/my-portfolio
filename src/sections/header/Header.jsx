@@ -12,8 +12,8 @@ const Header = () => {
         <h3>Marlon Martins</h3>
         <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quaerat, mollitia? Ipsum dolorem repudiandae alias quo assumenda officia, ipsa ex voluptates quaerat repellat, non nulla eaque iure sint cupiditate qui dolores!</p>
         <div className='header__cta'>
-          <a href='#contact'>Let's talk</a>
-          <a href='#portfolio'>My Work</a>
+          <a href='#contact' className='btn primary'>Let's talk</a>
+          <a href='#portfolio' className='btn light'>My Work</a>
         </div>
         <div className='header__socials'>
           {
