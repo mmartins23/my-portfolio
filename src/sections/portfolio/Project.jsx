@@ -1,5 +1,6 @@
 import Card from '../../components/Card'
 
+
 const Project = ({project}) => {
   return (
     <Card className="portfolio__project">
