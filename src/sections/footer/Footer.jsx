@@ -1,6 +1,12 @@
+import './footer.css'
+
 const Footer = () => {
   return (
-    <div>Footer</div>
+    <footer className="footer__copyright">
+      <div >
+        <small>2022 EGATOR TUTORIALS &copy; All Rights Reserved</small>
+      </div>
+    </footer>
   )
 }
 
